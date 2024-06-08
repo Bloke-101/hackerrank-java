@@ -1,21 +1,21 @@
 # *Solved Problems*
 
-### *DESCRIPTION*
+## *DESCRIPTION*
 
-Here's a document to monitor my progress in solving the Java problems on [HackerRank](https://www.hackerrank.com/domains/java) website. 
+Here's a document to monitor my progress in solving the Java problems on [HackerRank](https://www.hackerrank.com/domains/java) website.
 
 ### *INTRODUCTION*
 
 - [x] **Welcome to Java!**
 - [x] **Java Stdin and Stdout I**
-- [ ] **Java If-Else**
-- [ ] **Java Stdin and Stdout II**
-- [ ] **Java Output Formatting**
-- [ ] **Java Loops I**
-- [ ] **Java Loops II**
-- [ ] **Java Datatypes**
-- [ ] **Java End-of-file**
-- [ ] **Java Static Initializer Block**
-- [ ] **Java Int to String**
-- [ ] **Java Date and Time**
+- [x] **Java If-Else**
+- [x] **Java Stdin and Stdout II**
+- [x] **Java Output Formatting**
+- [x] **Java Loops I**
+- [x] **Java Loops II**
+- [x] **Java Datatypes**
+- [x] **Java End-of-file**
+- [x] **Java Static Initializer Block**
+- [x] **Java Int to String**
+- [x] **Java Date and Time**
 - [ ] **Java Currency Formatter**

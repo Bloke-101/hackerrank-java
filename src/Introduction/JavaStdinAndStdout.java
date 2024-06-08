@@ -3,6 +3,7 @@ package Introduction;
 import java.util.Scanner;
 
 public class JavaStdinAndStdout {
+    
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
 
