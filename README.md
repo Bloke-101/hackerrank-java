@@ -18,4 +18,9 @@ Here's a document to monitor my progress in solving the Java problems on [Hacker
 - [x] **Java Static Initializer Block**
 - [x] **Java Int to String**
 - [x] **Java Date and Time**
-- [ ] **Java Currency Formatter**
+- [x] **Java Currency Formatter**
+
+### *STRINGS*
+
+- [x] **Java Strings Introduction**
+- [x] **Java Strings**
