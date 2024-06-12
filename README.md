@@ -23,4 +23,10 @@ Here's a document to monitor my progress in solving the Java problems on [Hacker
 ### *STRINGS*
 
 - [x] **Java Strings Introduction**
-- [x] **Java Strings**
+- [x] **Java Substring**
+- [x] **Java Substring Comparisons**
+- [x] **Java String Reverse**
+- [x] **Java Anagrams**
+- [x] **Java String Tokens**
+- [x] **Pattern Syntax Checker**
+- [x] **Java Regex**
