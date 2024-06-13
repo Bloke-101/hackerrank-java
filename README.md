@@ -30,3 +30,4 @@ Here's a document to monitor my progress in solving the Java problems on [Hacker
 - [x] **Java String Tokens**
 - [x] **Pattern Syntax Checker**
 - [x] **Java Regex**
+- [x] **Valid Username Regular Expression**
