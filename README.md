@@ -32,3 +32,10 @@ Here's a document to monitor my progress in solving the Java problems on [Hacker
 - [x] **Java Regex**
 - [x] **Valid Username Regular Expression**
 - [x] **Java Regex 2 - Duplicate Words**
+- [ ] **Tag Content Extractor**
+
+### *BigNumber*
+
+- [] **Java BigDecimal**
+- [x] **Java BigInteger**
+- [x] **Java Primality Test**
