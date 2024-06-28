@@ -36,6 +36,11 @@ Here's a document to monitor my progress in solving the Java problems on [Hacker
 
 ### *BigNumber*
 
-- [] **Java BigDecimal**
+- [ ] **Java BigDecimal**
 - [x] **Java BigInteger**
 - [x] **Java Primality Test**
+
+### *Exception Handling*
+
+- [x] **Java Exeption Handling (Try-catch)**
+- [x] **Java Exeption Handling**
