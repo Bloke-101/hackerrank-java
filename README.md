@@ -44,3 +44,10 @@ Here's a document to monitor my progress in solving the Java problems on [Hacker
 
 - [x] **Java Exeption Handling (Try-catch)**
 - [x] **Java Exeption Handling**
+
+### *Object Oriented Programming*
+
+- [x] **Java Inheretance I**
+- [x] **Java Inheretance II**
+- [x] **Java Abstract Class**
+- [x] **Java Interface**
