@@ -52,5 +52,6 @@ Here's a document to monitor my progress in solving the Java problems on [Hacker
 - [x] **Java Abstract Class**
 - [x] **Java Interface**
 - [x] **Java Method Overriding**
+- [x] **Java Method Overriding 2 (Super Keyword)**
 - [x] **Java Instanceoff keyworkd**
 - [x] **Java Iterator**
